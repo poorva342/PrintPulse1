@@ -1,0 +1,3 @@
+- Layer height 0.2mm
+- No. of Layers: 25
+- Component height: 5 mm
