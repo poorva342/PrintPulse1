@@ -1,2 +1,0 @@
-- from 3rd onwards some changes in the starting code
-- 1 Not good , dont use 
