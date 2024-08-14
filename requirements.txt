@@ -6,3 +6,4 @@ altair==5.0.1
 streamlit==1.27.2
 scikit-learn==1.2.2
 gcodeparser==0.2.0
+pymongo
